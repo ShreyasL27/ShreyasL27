@@ -15,6 +15,7 @@ I'm a passionate and creative frontend developer with a strong foundation in bui
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ## 🌱 Currently Learning
 I'm currently exploring NodeJs and diving deeper into MERN Stack Development. Continuous learning is a key aspect of my development journey.
