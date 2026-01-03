@@ -24,6 +24,8 @@ I'm currently exploring NodeJs and diving deeper into MERN Stack Development. Co
 Here are some projects I'm proud to have worked on:
 
 - Weather App: [https://weatheremoji.000webhostapp.com/](link-to-project-1)
+- netflix-gpt: 
+- Shrey-s-Resto: 
 
 ## 📫 Let's Connect
 - LinkedIn: [https://www.linkedin.com/in/shreyas-linge-846928203/](link-to-linkedin)
