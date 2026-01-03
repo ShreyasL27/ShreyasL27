@@ -7,6 +7,7 @@ I'm a passionate and creative frontend developer with a strong foundation in bui
 - **Languages:** HTML, CSS, JavaScript
 - **Frontend:** ReactJs
 - **Tools** Parcel, npm
+- **Database** SQL, MS SQL Server, SSMS
 
 ## 🔧 Technologies & Tools
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=react&logoColor=white)
